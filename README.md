@@ -2,22 +2,24 @@
 Notes and tools for making data visualizations &amp; maps
 
 MAPPING TOOLS
-
-TileMill: https://www.mapbox.com/tilemill/ <br>
-Mapbox: https://www.mapbox.com/ <br>
-Mapbox Studio: https://www.mapbox.com/mapbox-studio/#darwin <br>
-CartoDB: http://cartodb.com/ <br>
-GeoCommons: http://geocommons.com/ <br>
-indiemapper: http://indiemapper.com/ <br>
-Palladio: http://palladio.designhumanities.org/ <br>
-BatchGeo: http://batchgeo.com/ <br>
-Open Streets Map: https://www.openstreetmap.org/ <br>
-Leaflet: http://leafletjs.com/ <br>
-QGIS: http://www2.qgis.org/en/site/index.html <br>
+<ul>
+  <li>TileMill: https://www.mapbox.com/tilemill/</li>
+  <li>Mapbox: https://www.mapbox.com/</li>
+  <li>Mapbox Studio: https://www.mapbox.com/mapbox-studio/#darwin</li>
+  <li>CartoDB: http://cartodb.com/</li>
+  <li>GeoCommons: http://geocommons.com/</li>
+  <li>indiemapper: http://indiemapper.com/</li>
+  <li>Palladio: http://palladio.designhumanities.org/</li>
+  <li>BatchGeo: http://batchgeo.com/</li>
+  <li>Open Streets Map: https://www.openstreetmap.org/</li>
+  <li>Leaflet: http://leafletjs.com/</li>
+  <li>QGIS: http://www2.qgis.org/en/site/index.html</li>
+</ul>
 
 GEOSPATIAL DATA SOURCES
-
-Natural Earth: http://www.naturalearthdata.com/ <br>
-US Census: https://www.census.gov/geo/maps-data/data/tiger.html <br>
-Bytes of the Big Apple: http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml <br>
-Global Biodiversity Information Facility: http://www.gbif.org/dataset <br>
+<ul>
+  <li>Natural Earth: http://www.naturalearthdata.com/</li>
+  <li>US Census: https://www.census.gov/geo/maps-data/data/tiger.html</li>
+  <li>Bytes of the Big Apple: http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml</li>
+  <li>Global Biodiversity Information Facility: http://www.gbif.org/dataset</li>
+</ul>
